@@ -1,4 +1,4 @@
 # lib/introduction.rb
 
-def introduction(Kelly)
+def introduction(kelly)
 end
