@@ -7,5 +7,5 @@ end
 # lib/language.rb
 
 def language(ruby)
-  puts "Hi, my name is kelly and i am learning to program in #{ruby}."
+  puts "Hi, my name is kelly and i am learning to program in #{ruby\n}."
 end
